@@ -1,0 +1,82 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Test cache
+.cache/
+.pytest_cache/
+
+# Coverage reports
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+
+# MyPy / Pyre / Pylint / Bandit / Ruff
+.mypy_cache/
+.dmypy.json
+.pytype/
+.pyre/
+ruff_cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# MacOS / Linux / Windows
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# dotenv
+.env
+.env.*
+
+# SQLite / local DBs
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# Spyder
+.spyderproject
+.spyproject
+
+# Temporary files
+*.bak
+*.tmp
+*.swp
+
